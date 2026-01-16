@@ -1,0 +1,12 @@
+# Compiled binaries
+*.exe
+*.out
+bin/
+dist/
+
+# IDE settings
+.idea/
+.vscode/
+
+# OS junk
+.DS_Store
